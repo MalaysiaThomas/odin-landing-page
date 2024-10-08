@@ -3,8 +3,8 @@ body {
     font-family: Roboto;
 }
 
-nav, header, section, footer {
-    padding: 0 50px;
+nav, header, section, footer, .footer-container {
+    padding: 0 200px;
 }
 
 header, section {
